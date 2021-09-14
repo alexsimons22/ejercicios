@@ -22,7 +22,7 @@
     </head>
     <body>
     <input NAME="kilogramos" type="text" id="kilogramos" size="4" maxlength="20" >
-                   A soles
+                   A gramos
                    <br />
                   <input NAME="valor" type="text" id="valor" size="4" maxlength="20" >
                     <br />
